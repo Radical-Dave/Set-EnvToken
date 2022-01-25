@@ -6,7 +6,9 @@ PowerShell Script to set EnvironmentVariables from .env files
 PS> ```Install-Script Set-EnvToken```
 
 ## Example
-PS> ```Set-EnvToken 'string with tokens $(subscription)'```
+PS> ```Set-EnvToken```
+
+PS> ```Set-EnvToken ('c:\path')```
 
 ## Copyright
 David Walker, [Radical Dave](https://github.com/radical-dave), [Sitecore Dave](https://github.com/sitecoredave)
